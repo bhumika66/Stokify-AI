@@ -12,12 +12,12 @@ This project fetches real-time stock data, visualizes moving averages, and predi
 
 ## 📊 Features
 
-📈 Real-time stock data fetching using yFinance
-📉 50-Day Moving Average (MA50) visualization
-📊 RSI (Relative Strength Index) indicator
-📊 MACD indicator with signal line
-🤖 Linear Regression based next-day price prediction
-🖥 Interactive dashboard built with Streamlit 
+- 📈 Real-time stock data fetching using yFinance
+- 📉 50-Day Moving Average (MA50) visualization
+- 📊 RSI Indicator
+- 📊 MACD Indicator
+- 🤖 Linear Regression based next-day prediction
+- 🖥 Interactive dashboard built with Streamlit
 
 ---
 
@@ -52,6 +52,7 @@ This project fetches real-time stock data, visualizes moving averages, and predi
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
 
 
 
