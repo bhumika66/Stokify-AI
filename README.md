@@ -6,6 +6,10 @@ This project fetches real-time stock data, visualizes moving averages, and predi
 
 ---
 
+## 🚀 Live Demo
+
+[![Live Demo](https://img.shields.io/badge/Streamlit-Live_App-green?style=for-the-badge&logo=streamlit)](https://bhumika66-stokify-ai-app-ldzh9q.streamlit.app/)
+
 ## 📊 Features
 
 - 📈 Real-time stock data fetching using yFinance  
@@ -45,3 +49,4 @@ This project fetches real-time stock data, visualizes moving averages, and predi
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
