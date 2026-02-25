@@ -27,6 +27,19 @@ This project fetches real-time stock data, visualizes moving averages, and predi
 
 ---
 
+---
+
+## 📸 Application Preview
+
+### 🏠 Main App
+![Main App](app%20preview.png)
+
+### 📊 Stock Chart
+![Chart](app%20preview%20chart.png)
+
+### 📈 Prediction Result
+![Result](app%20preview%20result.png)
+
 ## ▶️ Run Locally
 
 ```bash
