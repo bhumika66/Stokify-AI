@@ -1,16 +1,34 @@
-# Stokify AI 📈
+# 🚀 Stokify AI
 
-A simple stock prediction web app built using Streamlit.
+An interactive stock price prediction web application built using Python and Streamlit.
 
-## Features
-- Fetch stock data using yFinance
-- Calculate Moving Average
-- Simple Linear Regression prediction
-- Interactive dashboard
+This project fetches real-time stock data, visualizes moving averages, and predicts the next day's stock price using Linear Regression.
 
-## Tech Stack
-Python, Streamlit, Pandas, Scikit-learn
+---
 
-## Run Locally
+## 📊 Features
+
+- 📈 Real-time stock data fetching using yFinance  
+- 📉 Moving Average (MA50) visualization  
+- 🤖 Linear Regression based next-day price prediction  
+- 🖥 Interactive dashboard built with Streamlit  
+
+---
+
+## 🛠 Tech Stack
+
+- Python  
+- Streamlit  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- Matplotlib  
+- yFinance  
+
+---
+
+## ▶️ Run Locally
+
+```bash
 pip install -r requirements.txt
 streamlit run app.py
